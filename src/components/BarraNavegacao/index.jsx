@@ -2,8 +2,8 @@ import Menu from "./Menu";
 import Logo from "./Logo";
 import BotaoTogglerMenu from "./BotaoTogglerMenu";
 import BotaoCarrinho from "./BotaoCarrinho";
-import CampoTexto from "@/components/CampoTexto";
-import Botao from "@/components/Botao";
+import CampoTexto from "../CampoTexto";
+import Botao from "../Botao";
 
 import { useLocation } from "react-router-dom";
 
