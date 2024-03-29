@@ -5,6 +5,8 @@ import Sumario from "../components/Sumario";
 import ListaProdutosCarrinho from "../components/ListaProdutosCarrinho";
 import BannerCarrinho from "../components/BannerCarrinho";
 
+
+
 const Carrinho = ({
   carrinho,
   adicionarProduto,
