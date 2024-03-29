@@ -1,8 +1,8 @@
 import React from "react";
-import Botao from "@/components/Botao";
-import ListaProdutosCarrinho from "@/components/ListaProdutosCarrinho";
+import Botao from "../Botao";
+import ListaProdutosCarrinho from "../ListaProdutosCarrinho";
 import TotalCarrinho from "./TotalCarrinho";
-import Titulo from "@/components/Titulo";
+import Titulo from "../Titulo";
 
 const CarrinhoSuspenso = ({
   carrinho,
