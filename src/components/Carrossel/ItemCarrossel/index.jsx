@@ -1,5 +1,5 @@
 import React from "react";
-import Titulo from "@/components/Titulo";
+import Titulo from "../../Titulo";
 
 const ItemCarrossel = ({ src, alt, itemCarrossel }) => {
   return (
