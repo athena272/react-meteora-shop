@@ -1,6 +1,6 @@
 import React from "react";
-import ValorFormatado from "@/components/ValorFormatado";
-import Botao from "@/components/Botao";
+import ValorFormatado from "../../ValorFormatado";
+import Botao from "../../Botao";
 import { useNavigate } from "react-router-dom";
 
 const TotalCarrinho = ({ valorTotalCarrinho }) => {
