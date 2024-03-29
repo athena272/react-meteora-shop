@@ -1,7 +1,7 @@
 import React from "react";
-import Botao from "@/components/Botao";
-import Quantidade from "@/components/Quantidade";
-import ValorFormatado from "@/components/ValorFormatado";
+import Botao from "../Botao";
+import Quantidade from "../Quantidade";
+import ValorFormatado from "../ValorFormatado";
 import InfoItemCarrinho from "./InfoItemCarrinho";
 
 const ItemCarrinho = ({
