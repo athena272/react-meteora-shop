@@ -11,6 +11,12 @@ dependencies:
   bootstrap:
     specifier: ^5.3.3
     version: 5.3.3(@popperjs/core@2.11.8)
+  material-icons:
+    specifier: ^1.13.12
+    version: 1.13.12
+  material-symbols:
+    specifier: ^0.17.1
+    version: 0.17.1
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -1916,6 +1922,14 @@ packages:
     dependencies:
       yallist: 3.1.1
     dev: true
+
+  /material-icons@1.13.12:
+    resolution: {integrity: sha512-/2YoaB79IjUK2B2JB+vIXXYGtBfHb/XG66LvoKVM5ykHW7yfrV5SP6d7KLX6iijY6/G9GqwgtPQ/sbhFnOURVA==}
+    dev: false
+
+  /material-symbols@0.17.1:
+    resolution: {integrity: sha512-1kJan8t3U3Fmuu/YPu2MVsL/ODSja71o+J7ODROQfMaCzzal0izY4SATafEKgXUXU+jL0zIiBQdyzsno7vXBvA==}
+    dev: false
 
   /minimatch@3.1.2:
     resolution: {integrity: sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==}
