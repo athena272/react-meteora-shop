@@ -1,9 +1,9 @@
 import React from "react";
-import BarraNavegacao from "@/components/BarraNavegacao";
-import Titulo from "@/components/Titulo";
-import Sumario from "@/components/Sumario";
-import ListaProdutosCarrinho from "@/components/ListaProdutosCarrinho";
-import BannerCarrinho from "@/components/BannerCarrinho";
+import BarraNavegacao from "../components/BarraNavegacao";
+import Titulo from "../components/Titulo";
+import Sumario from "../components/Sumario";
+import ListaProdutosCarrinho from "../components/ListaProdutosCarrinho";
+import BannerCarrinho from "../components/BannerCarrinho";
 
 const Carrinho = ({
   carrinho,

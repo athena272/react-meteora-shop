@@ -1,7 +1,7 @@
 import React from "react";
 import Produto from "./Produto";
-import produtos from "@/mocks/produtos.json";
-import Titulo from "@/components/Titulo";
+import produtos from "../../mocks/produtos.json";
+import Titulo from "../Titulo";
 
 const Produtos = ({ adicionarProduto }) => {
   return (

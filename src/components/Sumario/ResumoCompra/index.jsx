@@ -1,7 +1,7 @@
 import React from "react";
-import Titulo from "@/components/Titulo";
-import ValorFormatado from "@/components/ValorFormatado";
-import { formatadorMoeda } from "@/utils/formatadorMoeda";
+import Titulo from "../../Titulo";
+import ValorFormatado from "../../ValorFormatado";
+import { formatadorMoeda } from "../../../utils/formatadorMoeda";
 
 const ResumoCompra = ({ valorTotalCarrinho, quantidadeProdutos }) => {
   return (

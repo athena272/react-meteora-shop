@@ -1,6 +1,6 @@
 import React from "react";
-import Botao from "@/components/Botao";
-import { formatadorMoeda } from "@/utils/formatadorMoeda";
+import Botao from "../../Botao";
+import { formatadorMoeda } from "../../../utils/formatadorMoeda";
 
 const Produto = ({
   src,

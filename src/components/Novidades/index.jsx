@@ -1,7 +1,7 @@
 import React from "react";
-import CampoTexto from "@/components/CampoTexto";
-import Botao from "@/components/Botao";
-import Titulo from "@/components/Titulo";
+import CampoTexto from "../CampoTexto";
+import Botao from "../Botao";
+import Titulo from "../Titulo";
 
 const Novidades = () => {
   return (

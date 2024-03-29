@@ -1,6 +1,6 @@
 import React from "react";
-import Botao from "@/components/Botao";
-import Titulo from "@/components/Titulo";
+import Botao from "../Botao";
+import Titulo from "../Titulo";
 import { useLocation } from "react-router-dom";
 
 const Quantidade = ({ itemCarrinho, adicionarProduto, removerProduto }) => {

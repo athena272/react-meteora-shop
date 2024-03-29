@@ -1,5 +1,5 @@
 import React from "react";
-import { formatadorMoeda } from "@/utils/formatadorMoeda";
+import { formatadorMoeda } from "../../utils/formatadorMoeda";
 
 const ValorFormatado = ({ valor }) => {
   return (
