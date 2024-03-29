@@ -1,4 +1,4 @@
-import React from "react";
+
 import Botao from "../Botao";
 import Quantidade from "../Quantidade";
 import ValorFormatado from "../ValorFormatado";

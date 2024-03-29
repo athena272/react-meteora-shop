@@ -1,4 +1,4 @@
-import React from "react";
+
 import Categoria from "./Categoria";
 import categorias from "../../mocks/categorias.json";
 import Titulo from "../Titulo";

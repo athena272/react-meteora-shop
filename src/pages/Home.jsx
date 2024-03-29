@@ -1,4 +1,4 @@
-import React from "react";
+
 
 import BarraNavegacao from "../components/BarraNavegacao";
 import Carrossel from "../components/Carrossel";

@@ -1,4 +1,4 @@
-import React from "react";
+
 import Botao from "../Botao";
 import ListaProdutosCarrinho from "../ListaProdutosCarrinho";
 import TotalCarrinho from "./TotalCarrinho";

@@ -1,4 +1,4 @@
-import React from "react";
+
 import ItemCarrinhoSuspenso from "../CarrinhoSuspenso/ItemCarrinhoSuspenso";
 import ItemCarrinho from "../ItemCarrinho";
 import { useLocation } from "react-router-dom";

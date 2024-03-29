@@ -1,4 +1,4 @@
-import React from "react";
+
 import Titulo from "../../Titulo";
 import ValorFormatado from "../../ValorFormatado";
 import { formatadorMoeda } from "../../../utils/formatadorMoeda";

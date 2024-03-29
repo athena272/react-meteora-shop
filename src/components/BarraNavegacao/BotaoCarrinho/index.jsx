@@ -1,4 +1,4 @@
-import React from "react";
+
 
 import imagemCarrinho from "/assets/cart.svg";
 
